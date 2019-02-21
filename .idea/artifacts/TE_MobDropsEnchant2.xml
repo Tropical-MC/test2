@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TE-MobDropsEnchant2">
+    <output-path>$PROJECT_DIR$/out/artifacts/TE_MobDropsEnchant2</output-path>
+    <root id="archive" name="TE-MobDropsEnchant2.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/pom.properties" />
+      <element id="file-copy" path="$PROJECT_DIR$/pom.xml" />
+      <element id="module-output" name="TE-MobDrops2" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/PaperSpigot-1.8.8-R0.1-SNAPSHOT-latest.jar" />
+      <element id="file-copy" path="C:/MMORPG/TokenEnchantAPI.jar" />
+      <element id="library" level="project" name="Maven: org.bukkit:bukkit:1.13.2-R0.1-SNAPSHOT" />
+      <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.6" />
+      <element id="library" level="project" name="Maven: com.googlecode.json-simple:json-simple:1.1.1" />
+      <element id="library" level="project" name="Maven: com.google.guava:guava:21.0" />
+      <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.8.0" />
+      <element id="library" level="project" name="Maven: org.yaml:snakeyaml:1.23" />
+    </root>
+  </artifact>
+</component>
